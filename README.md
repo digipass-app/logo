@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# [digipass.app](https://digipass.app/)
+- test yourself, wireless, fast, random and cheap, just 1$
+# Logotyp digipass.app
++ [Landing page: www.digipass.app](https://www.digipass.app/)
++ [Dokumentacja](https://docs.digipass.app/)
++ [Logo.digipass.app](https://logo.digipass.app/)
 
-You can use the [editor on GitHub](https://github.com/digipass-app/logo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Font
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    red
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Background
 
-- Bulleted
-- List
+    transparent
 
-1. Numbered
-2. List
+## Icon
 
-**Bold** and _Italic_ and `Code` text
+    red
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## logo
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digipass-app/logo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 1
+![1/cover.png](1/cover.png)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 2
+![2/cover.png](2/cover.png)
