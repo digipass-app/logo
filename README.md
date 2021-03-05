@@ -9,7 +9,7 @@
 
 ## Font
 
-    red
+    #025A3D
 
 
 ## Background
@@ -17,8 +17,9 @@
     transparent
 
 ## Icon
+    
+    #025A3D
 
-    red
 
 
 ## logo
